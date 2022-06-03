@@ -7,3 +7,5 @@
 <li>Sign in and sign out functionality</li>
 <br>
 <img src ="https://user-images.githubusercontent.com/56857610/171967068-0437b884-7fe4-4f9f-b47e-94df0a99436a.png" width="800px">
+
+<h4>Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.</h4>
